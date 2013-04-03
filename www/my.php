@@ -1,3 +1,3 @@
 <?php 
- Echo "My....... Helssssssssssslo,sssss World PHP!";
+ Echo "My..ssss..... Helssssssssssslo,sssss World PHP!";
 ?>
